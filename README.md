@@ -14,13 +14,17 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-import numpy as np
-a = np.array([[]1,3],[2,5]])
-constants = np.array([5,-3])
-len = np.linalg.solve(a,constants)
-print(len)
+1. import numpy as np
+2. a = np.array([[]1,3],[2,5]])
+3. constants = np.array([5,-3])
+4. len = np.linalg.solve(a,constants)
+5. print(len)
 ## Output:
-"C:\linear equation\linear equation.png"
+![linear equation](https://github.com/ARCHANAT1305/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/145975189/9559b56b-2c14-4f2b-8139-3a0ae974a6ae)
+
+
+
+
 
 
 ## Result: 

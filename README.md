@@ -14,8 +14,15 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-
+import numpy as np
+a = np.array([[]1,3],[2,5]])
+constants = np.array([5,-3])
+len = np.linalg.solve(a,constants)
+print(len)
 ## Output:
+"C:\linear equation\linear equation.png"
+
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 

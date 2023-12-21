@@ -19,6 +19,12 @@ End the program
 3. constants = np.array([5,-3])
 4. len = np.linalg.solve(a,constants)
 5. print(len)
+
+
+
+
+
+
 ## Output:
 ![linear equation](https://github.com/ARCHANAT1305/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/145975189/9559b56b-2c14-4f2b-8139-3a0ae974a6ae)
 
